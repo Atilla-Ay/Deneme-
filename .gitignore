@@ -1,0 +1,16 @@
+#Ide -vscode
+.vscode\*
+
+
+# img
+*.jpg
+*.png
+img/
+#videos
+*.mp4
+#packups
+
+
+#.log
+*.log
+password.txt
